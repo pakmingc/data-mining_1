@@ -104,6 +104,10 @@ jupyter notebook WS01.ipynb
 
 ---
 
+## 📫 Contact
+
+📧 pakmingc2@gmail.com
+
 ## 📄 License
 
 MIT License
